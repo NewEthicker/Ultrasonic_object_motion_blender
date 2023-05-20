@@ -12,7 +12,7 @@ Connect the Ultrasonic Sensor to the Arduino board as follows:
 1. Connect the Trig pin of the Ultrasonic Sensor to digital pin 9 on the Arduino.
 2. Connect the Echo pin of the Ultrasonic Sensor to digital pin 10 on the Arduino.
 3. Make sure to connect the VCC and GND pins of the Ultrasonic Sensor to the appropriate power and ground pins on the Arduino.
-4. Upload the Arduino code, "arduino.ino," to the Arduino board using the Arduino IDE. This code initializes the ultrasonic sensor and sends distance measurements via serial communication to the Blender script.
+4. Upload the Arduino code, `arduino.ino` to the Arduino board using the Arduino IDE. This code initializes the ultrasonic sensor and sends distance measurements via serial communication to the Blender script.
 
 ## To set up the script.py in blender, follow these steps:
 1. Open blender > tap on scripting tab > tap on (+ New) > paste the # script.py # there.
