@@ -5,7 +5,7 @@ https://github.com/NewEthicker/Ultrasonic_object_motion_blender/assets/88562515/
 
 This repository contains a Blender project that utilizes ultrasonic sensors to detect objects' proximity and animate their movement in a virtual environment. The project demonstrates the integration of hardware sensors and Blender's scripting capabilities to create an interactive experience.
 
-The main script, "script.py," establishes a serial connection with an Arduino board, reads distance measurements from the ultrasonic sensor, and adjusts the position of a cube object accordingly. As objects come closer or move away, the cube reacts in real-time, providing a visual representation of the detected objects' proximity.
+The main script, `script.py`, establishes a serial connection with an Arduino board, reads distance measurements from the ultrasonic sensor, and adjusts the position of a cube object accordingly. As objects come closer or move away, the cube reacts in real-time, providing a visual representation of the detected objects' proximity.
 
 ## To set up the hardware connections, follow these steps:
 Connect the Ultrasonic Sensor to the Arduino board as follows:
