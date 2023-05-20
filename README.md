@@ -17,8 +17,8 @@ Connect the Ultrasonic Sensor to the Arduino board as follows:
 ## To set up the script.py in blender, follow these steps:
 1. Open blender > tap on scripting tab > tap on (+ New) > paste the `script.py` there.
 2. Click on : [PyPi](https://files.pythonhosted.org/packages/1e/7d/ae3f0a63f41e4d2f6cb66a5b57197850f919f59e558159a4dd3a818f5082/pyserial-3.5.tar.gz) > save it anywhere > extract it.
-3. Go to This PC > Program Files > Blender Foundation > Blender 3.4 > 3.4 > python > `lib` > paste the extracted file `python 3.5`.
-4. Go to extracted file `Pyserial 3.5` > copy `Serial folder` from it, paste it to > This PC > Program Files > Blender Foundation > Blender 3.4 > 3.4 > python > `lib`.
+3. Go to `C:\Program Files\Blender Foundation\Blender 3.4\3.4\python\lib` > paste the extracted file `python-3.5`.
+4. Go to extracted file `Pyserial-3.5` > copy `Serial folder` from it, paste it to > This PC > Program Files > Blender Foundation > Blender 3.4 > 3.4 > python > `lib`.
 5. If, it didn't work then [CLICKME!](https://youtu.be/qFRqy2itak0)
 
 By exploring this project, you'll gain insights into sensor integration, real-time data processing, and interactive simulations using Blender. It serves as an excellent learning resource for those interested in combining hardware sensors and virtual environments.
